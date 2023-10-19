@@ -15,4 +15,4 @@
 
 <p>RADITIA_F1B019115</p>
 <p>JB1_F1B019115</p> 
-<img width="165" alt="image" src="https://github.com/Macchyy/PRAK-PBO-KLP6/assets/148021980/a0c3d97f-14f1-4224-af1d-a978fe5e30ad">
+<img  alt="image" src="https://github.com/Macchyy/PRAK-PBO-KLP6/assets/148021980/a0c3d97f-14f1-4224-af1d-a978fe5e30ad">
