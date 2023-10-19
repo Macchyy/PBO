@@ -13,7 +13,7 @@
 <p>JB5_F1B021063</p>
 <img src="https://github.com/Macchyy/PBO/assets/148258930/7d9a5b21-956d-40cb-8e04-858c5d6fde67">
 
--_______________________________________________________________________________________________
+*****************************************************************************************************
 <p>RADITIA_F1B019115</p>
 <p>JB1_F1B019115</p> 
 <img  alt="image" src="https://github.com/Macchyy/PRAK-PBO-KLP6/assets/148021980/c5e8aaa1-a556-472c-881e-adcde9d9a5fb">
@@ -21,3 +21,5 @@
 <img  alt="image" src="https://github.com/Macchyy/PRAK-PBO-KLP6/assets/148021980/af44e726-9b91-45f3-abbf-d9460c1b50af">
 <p>JB4_F1B019115</p> 
 <img  alt="image" src="https://github.com/Macchyy/PRAK-PBO-KLP6/assets/148021980/07d07c02-92ac-4fdf-9116-2e9765e2ef6c">
+<p>JB5_F1B019115</p> 
+<img  alt="image" src="https://github.com/Macchyy/PRAK-PBO-KLP6/assets/148021980/c001af15-a96e-40d3-96f6-94a726fa83c4">
