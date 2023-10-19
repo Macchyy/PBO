@@ -31,15 +31,15 @@ public class JKT48 {
        System.out.println("Nama : " + flora.nama);
        System.out.println("Tanggal Lahir : " + flora.born);
        System.out.println("Golongan Darah : " + flora.goldar);
-       System.out.println("Horoskop : " + flora.nama);
-       System.out.println("Tinggi Badan : " + flora.born + "\n");
+       System.out.println("Horoskop : " + flora.zdk);
+       System.out.println("Tinggi Badan : " + flora.tinggi + "\n");
        
        System.out.println("objek member jkt48 (objek 2) : " );
        System.out.println("Nama : " + manda.nama);
        System.out.println("Tanggal Lahir : " + manda.born);
        System.out.println("Golongan Darah : " + manda.goldar );
-       System.out.println("Horoskop : " + manda.nama);
-       System.out.println("Tinggi Badan : " + manda.born + "\n");
+       System.out.println("Horoskop : " + manda.zdk);
+       System.out.println("Tinggi Badan : " + manda.tinggi + "\n");
     }
     
 }
